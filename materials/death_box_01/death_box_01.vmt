@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "death_box_01/death_box_01"
+	"$surfaceprop" "concrete" // Surfaceprop list found here: https://developer.valvesoftware.com/wiki/Surfaceprop
+}

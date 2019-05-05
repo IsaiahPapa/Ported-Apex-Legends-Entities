@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"Apex Legends Models"
+	"version"			"1.0"
+	"up_date"			"2017"
+	"author_name"		"Clix"
+	"author_email"		""
+	"author_url"		"www.twitch.tv/clix77"
+	"info"			""
+}

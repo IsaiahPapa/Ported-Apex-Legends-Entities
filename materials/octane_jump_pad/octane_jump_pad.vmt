@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "octane_jump_pad/octane_jump_pad"
+	"$surfaceprop" "concrete" // Surfaceprop list found here: https://developer.valvesoftware.com/wiki/Surfaceprop
+}

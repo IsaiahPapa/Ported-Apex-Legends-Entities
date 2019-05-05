@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "shield_battery/shield_battery"
+	"$surfaceprop" "concrete"
+}
