@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "health_kit/health_kit"
+	"$surfaceprop" "concrete" // Surfaceprop list found here: https://developer.valvesoftware.com/wiki/Surfaceprop
+}
